@@ -57,7 +57,7 @@ name has only 5 possible values.
 
 "anibus"..........for the god of death anibus palette.
 
-"beetle"...........for the palette of sacrab beelte.
+"beetle"...........for the palette of sacrab beetle statuette.
 
 "ankh".............for the regenerated palette of a wooden case for a mirror, formed in the shape of an ankh.
 
